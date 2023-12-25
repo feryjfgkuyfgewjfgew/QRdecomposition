@@ -51,7 +51,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![Alt text](<Screenshot 2023-12-25 063515.png>)
+![Screenshot 2023-12-25 063515](https://github.com/feryjfgkuyfgewjfgew/QRdecomposition/assets/150319377/c8dff810-b290-4fd5-b2e3-0c2ecaeb712e)
+
 ```
 
 ## Result
